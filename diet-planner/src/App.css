@@ -1,0 +1,43 @@
+body {
+background: linear-gradient(120deg, #84fab0, #8fd3f4);
+font-family: 'Segoe UI';
+}
+
+
+.container {
+max-width: 400px;
+margin: auto;
+padding: 30px;
+}
+
+
+.card, .result {
+background: white;
+padding: 20px;
+border-radius: 15px;
+box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+margin-top: 20px;
+}
+
+
+input, select, button {
+width: 100%;
+padding: 10px;
+margin-top: 10px;
+border-radius: 8px;
+border: 1px solid #ddd;
+}
+
+
+button {
+background: #2ecc71;
+color: white;
+font-size: 16px;
+border: none;
+}
+
+
+.motivation {
+color: #27ae60;
+font-weight: bold;
+}
